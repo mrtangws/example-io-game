@@ -29,6 +29,10 @@ $ npm run develop
 
 on your local machine.
 
+Wen Sheng, 15/2/2023: I added these steps to resolve webpack error:
+# Downgrade to Node v16.16.0 (LTS)
+# Run "npm install --save-dev webpack@5.21.0"
+
 To run the project in a production setting, simply
 
 ```bash
